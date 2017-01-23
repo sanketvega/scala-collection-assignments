@@ -14,7 +14,7 @@ class Quick{
 
 object QuickSort extends App{
 
-	val Quickobj = new MSort
+	val Quickobj = new Quick
 	val sortedList = Quickobj. sorting(List(19,111,25,53,7,31,61,46))
 	println(sortedList)
 
